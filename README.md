@@ -3,4 +3,4 @@
 ### Start out properly in development
 
 
-### Learning to manage my code the proper way!
+### Learning to develop and manage my code the proper way!
