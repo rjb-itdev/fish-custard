@@ -3,7 +3,7 @@
 ####Configuration:
 
 * Development Server
-  * Setup proper development server for AngularJS
+  * ~~Setup proper development server for AngularJS~~
 
 * Twitter Bootstrap
   * Get files
